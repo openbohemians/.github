@@ -12,7 +12,7 @@ and project register.
 
 The stewardship initiative is taking shape around
 [Oyl](https://github.com/openbohemians/oyl), formerly YAM, and its
-[Crystal bindings](https://github.com/trans/yam.cr). Their preparation
+[Crystal bindings](https://github.com/openbohemians/oyl.cr). Their preparation
 status and current repository locations are recorded in the project register.
 
 For a project's bugs, documentation, or proposed changes, use that project's

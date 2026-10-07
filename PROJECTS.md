@@ -9,13 +9,12 @@ recorded here when a project has a named maintainer and meets the
 | Repository | Purpose | Status | Initial maintainer |
 | --- | --- | --- | --- |
 | [Oyl](https://github.com/openbohemians/oyl) | SIMD-accelerated YAML 1.2 parser and emitter in C11 | Preparing for stewardship | Tom (@trans) |
-| [Crystal bindings](https://github.com/trans/yam.cr) | Crystal bindings for the Oyl project family | Preparing for stewardship | Tom (@trans) |
+| [Oyl for Crystal](https://github.com/openbohemians/oyl.cr) | Crystal bindings for the Oyl project family | Preparing for stewardship | Tom (@trans) |
 
-Oyl, formerly named YAM, and its Crystal bindings form one project family.
-The C repository is now under Open Bohemians. The Crystal bindings are
-being moved and renamed to `openbohemians/oyl.cr`; the link above follows
-their current location until that transfer completes. Their supported C
-revision is being reviewed as part of the transition to Oyl.
+Oyl, formerly named YAM, and its Crystal bindings form one project family
+under Open Bohemians. Both repositories have moved to their new homes.
+The bindings' supported C revision is being reviewed as part of the
+transition to Oyl.
 
 Before admission, record the supported release or revision for each
 repository, document how to contribute, and confirm which C library version
