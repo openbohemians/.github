@@ -25,6 +25,8 @@ projects hosted in the organization.
 
 Bug reports, documentation, testing, and thoughtful code contributions all
 help a project last. Start with the issue tracker of a project you use.
+You can also [sponsor Open Bohemians](https://github.com/sponsors/openbohemians)
+to support the time spent on development, maintenance, documentation, and releases.
 
 Open Bohemians is currently led by Tom
 ([@trans](https://github.com/trans)), with the aim of growing shared
