@@ -8,10 +8,13 @@ Our projects include:
 
 - **[Oyl](https://github.com/openbohemians/oyl):** a fast YAML 1.2 parser and
   emitter in C11, with SIMD acceleration and bindings for
-  [Crystal](https://github.com/openbohemians/oyl.cr) and
-  [Rust](https://github.com/openbohemians/oyl.rs).
+  [Crystal](https://github.com/openbohemians/oyl.cr),
+  [Rust](https://github.com/openbohemians/oyl.rs), and
+  [Go](https://github.com/openbohemians/oyl.go).
 - **[Memo](https://github.com/openbohemians/memo):** a Crystal library for
   portable semantic memory.
+- **[Jargon](https://jargon.openbohemians.org/):** schema-first command line
+  parsing for Crystal and Rust.
 - **[Merkle CHAMP](https://github.com/openbohemians/merkle-champ):** persistent
   hash maps and sets with canonical shape, cached Merkle identities, and
   structural diff.
