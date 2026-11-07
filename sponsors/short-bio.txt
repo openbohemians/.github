@@ -1,1 +1,1 @@
-Useful open source, maintained with care. Support Oyl, its bindings, Memo, Jargon, and Merkle CHAMP.
+Open Bohemians: a home for open source software, maintained with care.
