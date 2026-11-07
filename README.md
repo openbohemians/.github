@@ -13,9 +13,9 @@ and project register.
   [short bio](sponsors/short-bio.txt)
 
 The stewardship initiative is taking shape around
-[Oyl](https://github.com/openbohemians/oyl), formerly YAM, and its
-[Crystal bindings](https://github.com/openbohemians/oyl.cr). Their preparation
-status and current repository locations are recorded in the project register.
+[Oyl](https://github.com/openbohemians/oyl), formerly YAM, and its bindings.
+Their preparation status and current repository locations are recorded in the
+project register.
 
 For a project's bugs, documentation, or proposed changes, use that project's
 issue tracker. To discuss the initiative or propose a project for
