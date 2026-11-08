@@ -29,8 +29,11 @@ between their releases.
 | --- | --- | --- | --- |
 | [Jargon](https://github.com/openbohemians/Jargon) | Command line parsing via JSON Schema, in [Crystal](https://github.com/openbohemians/jargon.cr) and [Rust](https://github.com/openbohemians/jargon.rs) | Preparing for stewardship | Tom (@trans) |
 | [Merkle CHAMP](https://github.com/openbohemians/merkle-champ) | Persistent CHAMP hash map and set in Rust, with canonical shape, cached Merkle identities, and structural diff | Preparing for stewardship | Tom (@trans) |
+| [C0DATA](https://github.com/c0data) | Structured data using ASCII C0 control codes: a specification and seven implementations | Preparing for stewardship | Tom (@trans) |
 
-Jargon and Merkle CHAMP both work well, but are still new.
+Jargon and Merkle CHAMP both work well, but are still new. C0DATA joined on
+2026-11-08 and keeps its repositories in its own GitHub organization,
+[c0data](https://github.com/c0data).
 
 ## Project statuses
 
