@@ -12,10 +12,10 @@ and project register.
 - [Sponsorship introduction](sponsors/introduction.md) and
   [short bio](sponsors/short-bio.txt)
 
-The stewardship initiative is taking shape around
+The stewardship initiative began with
 [Oyl](https://github.com/openbohemians/oyl), formerly YAM, and its bindings.
-Their preparation status and current repository locations are recorded in the
-project register.
+Each project's status and repository locations are recorded in the project
+register.
 
 For a project's bugs, documentation, or proposed changes, use that project's
 issue tracker. To discuss the initiative or propose a project for

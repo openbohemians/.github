@@ -12,9 +12,8 @@ users, and opportunities for contributors to become maintainers.
 Our founding project family is [Oyl](https://github.com/openbohemians/oyl),
 the optimized YAML library: a YAML 1.2 parser and emitter written in C11
 with SIMD acceleration, together with its bindings.
-Formerly named YAM, Oyl is now part of Open Bohemians. We are preparing
-the project family for stewardship, including documenting supported
-releases and compatibility between the library and its bindings.
+Formerly named YAM, Oyl is now part of Open Bohemians, and the library
+and its bindings are maintained here.
 
 The [project register](https://github.com/openbohemians/.github/blob/main/PROJECTS.md)
 records project locations and stewardship status, including the other
