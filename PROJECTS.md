@@ -2,7 +2,8 @@
 
 Admission to stewardship is recorded here when a project has a named
 maintainer and meets the [charter's expectations](CHARTER.md). Oyl and
-Jargon were the first projects admitted, on 2026-11-15.
+Jargon were the first projects admitted, on 2026-11-15, and Merkle CHAMP
+followed on 2026-11-16.
 
 ## Founding project family
 
@@ -23,11 +24,11 @@ for the versions it supports.
 | Repository | Purpose | Status | Initial maintainer |
 | --- | --- | --- | --- |
 | [Jargon](https://github.com/openbohemians/Jargon) | Command line parsing via JSON Schema, in [Crystal](https://github.com/openbohemians/jargon.cr) and [Rust](https://github.com/openbohemians/jargon.rs) | Maintained | Tom (@trans) |
-| [Merkle CHAMP](https://github.com/openbohemians/merkle-champ) | Persistent CHAMP hash map and set in Rust, with canonical shape, cached Merkle identities, and structural diff | Preparing for stewardship | Tom (@trans) |
+| [Merkle CHAMP](https://github.com/openbohemians/merkle-champ) | Persistent CHAMP hash map and set in Rust, with canonical shape, cached Merkle identities, and structural diff | Maintained | Tom (@trans) |
 | [C0DATA](https://github.com/c0data) | Structured data using ASCII C0 control codes: a specification and seven implementations | Preparing for stewardship | Tom (@trans) |
 
 Jargon, the specification and its Crystal and Rust implementations, has
-been maintained since 2026-11-15. Merkle CHAMP works well but is still new.
+been maintained since 2026-11-15, and Merkle CHAMP since 2026-11-16.
 C0DATA joined on 2026-11-08 and keeps its repositories in its own GitHub
 organization, [c0data](https://github.com/c0data).
 
